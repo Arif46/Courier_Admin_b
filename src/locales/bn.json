@@ -1,0 +1,30 @@
+{
+    "globalTrans": {
+        "bn": "বাংলা",
+        "dashboard": "ড্যাশবোর্ড",
+        "home": "হোম",
+        "startDate": "শুরুর তারিখ",
+        "endDate": "শেষ তারিখ",
+        "addNew": "নতুন যোগ করুন",
+        "edit": "পরিবর্তন",
+        "update": "পরিবর্তন করুন",        
+        "delete": "মুছে ফেলুন",
+        "merchant": "মার্চেন্ট",
+        "hub": "হাব",
+        "rider": "চালক",
+        "date": "তারিখ",
+        "status": "অবস্থা",
+        "action": "অ্যাকশন",
+        "select": "নির্বাচন করুন",
+        "allPickup": "সকল পিকআপ",
+        "pickup": "পিকআপ",
+        "active": "একটিভ",
+        "details": "বিস্তারিত",
+        "submit": "সংরক্ষণ করুন",
+        "cancel": "বাতিল করুন",
+        "deleteConfirmation": "নিশ্চিতকরণ মুছুন",
+        "areYouSureToDelete": "আপনি কি মুছে ফেলতে চান ?",
+        "yes": "হ্যাঁ",
+        "no": "না"
+    }
+}

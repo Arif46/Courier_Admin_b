@@ -1,0 +1,30 @@
+{
+    "globalTrans": {
+        "bn": "Bangla",
+        "dashboard": "Dashboard",
+        "home": "Home",
+        "startDate": "Start Date",
+        "endDate": "End Date",
+        "addNew": "Add New",
+        "edit": "Edit",
+        "update": "Update",
+        "delete": "Delete",
+        "merchant": "Merchant",
+        "hub": "Hub",
+        "rider": "Rider",
+        "date": "Date",
+        "status": "Status",
+        "action": "Action",
+        "select": "Select",
+        "allPickup": "All Pickup",
+        "pickup": "Pickup",
+        "active": "Active",
+        "details": "Details",
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "deleteConfirmation": "Delete Confirmation",
+        "areYouSureToDelete": "Are you sure to delete ?",
+        "yes": "Yes",
+        "no": "No"
+    }
+}
